@@ -1,5 +1,4 @@
 # Project
-This is Repository</br>
 Hi, guys :D </br>
 This Group member are :</br>
 Rizal Firdaus (161402013)</br>
